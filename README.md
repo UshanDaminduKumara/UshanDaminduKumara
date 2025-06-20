@@ -39,7 +39,7 @@
 
 ### 📚 Certifications
 
-- IBM: Data Science Methodology, Python for DS, Prompt Engineering  
+- IBM:IBM Data Science Professional Certificate
 - Google: Foundations of Business Intelligence  
 - University of Moratuwa: Programming in Python  
 - University of London: Research Methods  
